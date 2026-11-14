@@ -18,7 +18,7 @@ AI agents are starting to hire on people's behalf, but the markets they enter we
 [![Evaluation plan](https://img.shields.io/badge/Evaluation%20plan-8%20tests%20fixed%20before%20building-A8E87C?style=flat-square)](#evaluation-plan-fixed-before-building)
 [![License](https://img.shields.io/badge/License-MIT-14231B?style=flat-square)](LICENSE)
 
-[Project paper (PDF)](docs/AGORA_Paper.pdf) · [For judges](#for-judges-the-60-second-path) · [Test it on testnet](#test-it-with-real-testnet-money) · [Run the app](#run-the-app) · [Live app](https://agora-seven-fawn.vercel.app)
+[▶ Demo video](https://x.com/AGORA_near/status/2121699520035819703) · [Project paper (PDF)](docs/AGORA_Paper.pdf) · [For judges](#for-judges-the-60-second-path) · [Test it on testnet](#test-it-with-real-testnet-money) · [Run the app](#run-the-app) · [Live app](https://agora-seven-fawn.vercel.app)
 
 <br/>
 
